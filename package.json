@@ -1,45 +1,30 @@
 {
-  "_from": "cordova.plugin.zoom",
-  "_id": "cordova.plugin.zoom@4.6.2166-6.604",
-  "_inBundle": false,
-  "_integrity": "sha512-vfuQYZR9DDacv/MXhaWdnd2GM2hcgd2SsEQJdeHnqlQG9hNzlopfwKRSEhvkKi4+LsbWbLi6ASt3BwzdqTeNOQ==",
-  "_location": "/cordova.plugin.zoom",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "cordova.plugin.zoom",
-    "name": "cordova.plugin.zoom",
-    "escapedName": "cordova.plugin.zoom",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/cordova.plugin.zoom/-/cordova.plugin.zoom-4.6.2166-6.603.tgz",
-  "_shasum": "4fcad5ecdf18469313888ea185672961474b4514",
-  "_spec": "cordova.plugin.zoom",
-  "_where": "F:\\LyricsApp\\Stutigaan",
-  "author": {
-    "name": "Zoom Video Communication, Inc."
-  },
-  "bundleDependencies": false,
+  "name": "cordova-plugin-zoom-diksha",
+  "version": "0.9.0-beta.3",
+  "description": "Deleted",
   "cordova": {
-    "id": "cordova.plugin.zoom",
+    "id": "cordova-plugin-zoom-diksha",
     "platforms": [
       "android"
     ]
   },
-  "deprecated": false,
-  "description": "A Cordova Plugin for Zoom Video Conferencing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diksha-94/zoom.git"
+  },
   "keywords": [
-    "ecosystem:cordova",
     "cordova-android"
   ],
-  "license": "ISC",
-  "name": "cordova.plugin.zoom",
-  "version": "4.6.2166-6.604"
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.6.0"
+    }
+  ],
+  "author": "Diksha",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/katzer/cordova-plugin-local-notifications/issues"
+  },
+  "homepage": "https://github.com/katzer/cordova-plugin-local-notifications#readme"
 }
